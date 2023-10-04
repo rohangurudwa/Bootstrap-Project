@@ -1,2 +1,2 @@
 # Bootstrap-Project
-Building a responsive website using bootstrap.
+Building a responsive homepage using bootstrap.
